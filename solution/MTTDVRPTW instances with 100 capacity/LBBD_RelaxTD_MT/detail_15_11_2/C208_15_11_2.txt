@@ -1,0 +1,31 @@
+data/solution/LBBD_RelaxTD_MT/detail_15_11_2/C208_15_11_2.txt
+
+Root Node LB:	222.36
+Cost:		248.87
+Best LB:		248.87
+Status:		Optimal
+Gap (%):		.00
+Cpu Time:		3.31
+Nodes:		1565
+UserCut:		1
+
+--------------Route 0--------------:
+Trip 0:		[0, 5, 2, 1, 7, 3, 4, 0]
+Loading time:	108.0
+Ready time Domain:	[108.00	466.01]
+Ready time Image:	[1165.56	1165.56]
+Ready time:	[108.0, 213.13, 308.96, 411.87, 923.0, 1021.25, 1114.34, 1165.56]
+
+--------------Route 1--------------:
+Trip 0:		[0, 6, 15, 12, 14, 0]
+Loading time:	72.0
+Ready time Domain:	[876.53	881.82]
+Ready time Image:	[2304.53	2304.53]
+Ready time:	[876.53, 981.71, 2066.0, 2161.3, 2257.3, 2304.53]
+
+Trip 1:		[0, 10, 11, 13, 9, 8, 0]
+Loading time:	90.0
+Ready time Domain:	[1653.02	2569.74]
+Ready time Image:	[3063.02	3104.47]
+Ready time:	[2394.53, 2641.0, 2733.25, 2853.55, 2951.36, 3053.03, 3063.02]
+

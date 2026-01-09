@@ -1,0 +1,8 @@
+TD-MTVRPTW benchmark with 15 customers
+
+15 Customers
+2 Vehicles
+2 Trips
+Maximum duration is C2: 1500; R2\RC2: 550 
+
+Test cases of C201-C208, R201-R211, RC201 -- RC208

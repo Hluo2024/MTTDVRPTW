@@ -1,0 +1,69 @@
+data/solution/LBBD_RelaxTD_MT/detail_35_11_4/C201_35_11_4.txt
+
+Root Node LB:	546.81
+Cost:		601.58
+Best LB:		601.55
+Status:		Optimal
+Gap (%):		.00
+Cpu Time:		758.81
+Nodes:		115893
+UserCut:		20
+
+--------------Route 0--------------:
+Trip 0:		[0, 5, 2, 1, 0]
+Loading time:	54.0
+Ready time Domain:	[54.00	169.87]
+Ready time Image:	[442.34	512.43]
+Ready time:	[54.0, 159.13, 303.0, 414.61, 442.34]
+
+--------------Route 1--------------:
+Trip 0:		[0, 20, 0]
+Loading time:	18.0
+Ready time Domain:	[18.00	161.43]
+Ready time Image:	[126.57	270.00]
+Ready time:	[18.0, 116.57, 126.57]
+
+--------------Route 2--------------:
+Trip 0:		[0, 22, 24, 27, 30, 29, 6, 0]
+Loading time:	108.0
+Ready time Domain:	[108.00	154.50]
+Ready time Image:	[739.18	782.66]
+Ready time:	[108.0, 210.17, 303.77, 399.6, 493.84, 598.84, 701.23, 739.18]
+
+Trip 1:		[0, 7, 3, 4, 0]
+Loading time:	54.0
+Ready time Domain:	[690.31	1185.46]
+Ready time Image:	[1386.31	1552.56]
+Ready time:	[793.18, 1163.0, 1261.25, 1355.57, 1386.31]
+
+Trip 2:		[0, 18, 19, 16, 14, 12, 0]
+Loading time:	90.0
+Ready time Domain:	[1626.66	1875.03]
+Ready time Image:	[2286.66	2444.07]
+Ready time:	[1626.66, 1832.0, 1927.0, 2024.0, 2116.0, 2210.5, 2286.66]
+
+Trip 3:		[0, 25, 11, 10, 8, 21, 0]
+Loading time:	90.0
+Ready time Domain:	[2435.72	2627.88]
+Ready time Image:	[3095.72	3180.43]
+Ready time:	[2435.72, 2594.0, 2788.0, 2881.0, 2977.08, 3084.05, 3095.72]
+
+--------------Route 3--------------:
+Trip 0:		[0, 32, 33, 31, 35, 0]
+Loading time:	72.0
+Ready time Domain:	[323.14	731.21]
+Ready time Image:	[1001.14	1158.64]
+Ready time:	[323.14, 683.0, 775.0, 871.0, 968.5, 1001.14]
+
+Trip 1:		[0, 34, 28, 26, 23, 0]
+Loading time:	72.0
+Ready time Domain:	[1089.40	1454.95]
+Ready time Image:	[1767.40	1909.50]
+Ready time:	[1089.4, 1436.0, 1538.92, 1645.05, 1741.23, 1767.4]
+
+Trip 2:		[0, 15, 17, 13, 9, 0]
+Loading time:	72.0
+Ready time Domain:	[2047.99	2303.89]
+Ready time Image:	[2725.99	2818.27]
+Ready time:	[2047.99, 2306.0, 2402.46, 2495.89, 2691.0, 2725.99]
+
