@@ -1,0 +1,75 @@
+data/solution/LBBD_RelaxTD_MT/detail_45_11_5/C207_45_11_5.txt
+
+Root Node LB:	651.94
+Cost:		704.88
+Best LB:		664.50
+Status:		Feasible
+Gap (%):		5.73
+Cpu Time:		7203.05
+Nodes:		72593
+UserCut:		11
+
+--------------Route 0--------------:
+Trip 0:		[0, 5, 2, 1, 0]
+Loading time:	54.0
+Ready time Domain:	[54.00	192.87]
+Ready time Image:	[419.73	535.43]
+Ready time:	[54.0, 159.13, 253.02, 392.0, 419.73]
+
+Trip 1:		[0, 40, 44, 45, 42, 41, 43, 0]
+Loading time:	108.0
+Ready time Domain:	[2065.32	2240.99]
+Ready time Image:	[2707.32	2853.09]
+Ready time:	[2065.32, 2174.67, 2270.03, 2372.27, 2511.0, 2602.2, 2694.9, 2707.32]
+
+--------------Route 1--------------:
+Trip 0:		[0, 20, 24, 22, 0]
+Loading time:	54.0
+Ready time Domain:	[54.00	422.00]
+Ready time Image:	[376.01	735.66]
+Ready time:	[54.0, 152.57, 245.9, 339.51, 376.01]
+
+--------------Route 2--------------:
+Trip 0:		[0, 27, 30, 29, 33, 32, 0]
+Loading time:	90.0
+Ready time Domain:	[90.00	550.65]
+Ready time Image:	[647.72	1138.72]
+Ready time:	[90.0, 197.12, 289.95, 384.95, 498.38, 590.38, 647.72]
+
+Trip 1:		[0, 7, 3, 4, 0]
+Loading time:	54.0
+Ready time Domain:	[676.31	1207.13]
+Ready time Image:	[1372.31	1574.22]
+Ready time:	[701.72, 1149.0, 1247.25, 1341.57, 1372.31]
+
+Trip 2:		[0, 18, 19, 16, 14, 12, 0]
+Loading time:	90.0
+Ready time Domain:	[1259.12	2202.09]
+Ready time Image:	[1919.12	2798.34]
+Ready time:	[1462.31, 1587.66, 1683.66, 1782.15, 1874.55, 1969.05, 2026.17]
+
+Trip 3:		[0, 8, 10, 11, 25, 21, 0]
+Loading time:	90.0
+Ready time Domain:	[2073.18	2668.87]
+Ready time Image:	[2733.18	3190.20]
+Ready time:	[2116.17, 2223.66, 2401.0, 2518.0, 2618.01, 2715.69, 2733.18]
+
+--------------Route 3--------------:
+Trip 0:		[0, 31, 35, 38, 37, 6, 0]
+Loading time:	90.0
+Ready time Domain:	[309.70	513.88]
+Ready time Image:	[969.70	1084.60]
+Ready time:	[309.7, 433.24, 538.24, 727.0, 818.5, 919.11, 969.7]
+
+Trip 1:		[0, 34, 36, 39, 28, 26, 23, 0]
+Loading time:	108.0
+Ready time Domain:	[913.90	1416.04]
+Ready time Image:	[1555.90	2045.06]
+Ready time:	[1077.7, 1206.57, 1299.14, 1395.14, 1493.22, 1592.89, 1689.07, 1715.24]
+
+Trip 2:		[0, 9, 13, 15, 17, 0]
+Loading time:	72.0
+Ready time Domain:	[1809.75	2510.10]
+Ready time Image:	[2487.75	2954.38]
+Ready time:	[1809.75, 2180.0, 2276.69, 2371.31, 2467.77, 2487.75]
+

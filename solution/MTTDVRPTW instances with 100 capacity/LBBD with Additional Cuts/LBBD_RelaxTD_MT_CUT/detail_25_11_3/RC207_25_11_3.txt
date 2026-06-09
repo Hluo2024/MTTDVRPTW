@@ -1,0 +1,49 @@
+data/solution/LBBD_RelaxTD_MT_CUT/detail_25_11_3/RC207_25_11_3.txt
+
+Cost:		525.96
+Lower Bound:	518.77
+Status:		Feasible
+Gap (%):		1.37
+Cpu Time:		7200.05
+Nodes:		496724
+UserCut:		35209
+
+--------------Route 0--------------:
+Trip 0:		[0, 2, 5, 8, 7, 6, 0]
+Loading time:	10.0
+Ready time Domain:	[26.94	324.22]
+Ready time Image:	[366.94	487.80]
+Ready time:	[26.94, 83.0, 105.75, 282.0, 302.0, 314.57, 366.94]
+
+Trip 1:		[0, 4, 3, 1, 0]
+Loading time:	6.0
+Ready time Domain:	[288.01	552.33]
+Ready time Image:	[632.01	645.14]
+Ready time:	[372.94, 428.0, 483.0, 601.0, 632.01]
+
+--------------Route 1--------------:
+Trip 0:		[0, 12, 14, 17, 16, 15, 13, 0]
+Loading time:	12.0
+Ready time Domain:	[134.46	339.61]
+Ready time Image:	[472.46	527.22]
+Ready time:	[134.46, 187.92, 199.72, 369.0, 382.75, 394.75, 410.58, 472.46]
+
+Trip 1:		[0, 20, 22, 25, 24, 0]
+Loading time:	8.0
+Ready time Domain:	[336.11	568.15]
+Ready time Image:	[678.11	721.84]
+Ready time:	[480.46, 530.98, 542.18, 560.57, 608.0, 678.11]
+
+--------------Route 2--------------:
+Trip 0:		[0, 23, 21, 18, 19, 0]
+Loading time:	8.0
+Ready time Domain:	[61.44	331.63]
+Ready time Image:	[403.44	479.08]
+Ready time:	[61.44, 120.28, 168.0, 348.0, 363.39, 403.44]
+
+Trip 1:		[0, 9, 11, 10, 0]
+Loading time:	6.0
+Ready time Domain:	[193.03	428.67]
+Ready time Image:	[537.03	578.63]
+Ready time:	[409.44, 471.47, 487.94, 499.65, 551.77]
+

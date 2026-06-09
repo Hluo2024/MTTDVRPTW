@@ -1,0 +1,69 @@
+data/solution/LBBD_RelaxTD_MT/detail_45_11_5/C204_45_11_5.txt
+
+Root Node LB:	598.03
+Cost:		658.18
+Best LB:		608.41
+Status:		Feasible
+Gap (%):		7.56
+Cpu Time:		7200.73
+Nodes:		71410
+UserCut:		11
+
+--------------Route 0--------------:
+Trip 0:		[0, 22, 27, 24, 20, 0]
+Loading time:	72.0
+Ready time Domain:	[72.00	2971.62]
+Ready time Image:	[496.05	3390.00]
+Ready time:	[72.0, 174.17, 269.17, 361.05, 466.05, 496.05]
+
+--------------Route 1--------------:
+Trip 0:		[0, 29, 33, 32, 6, 0]
+Loading time:	72.0
+Ready time Domain:	[72.00	2965.06]
+Ready time Image:	[542.27	3389.30]
+Ready time:	[72.0, 175.33, 278.72, 370.06, 466.38, 542.27]
+
+Trip 1:		[0, 4, 3, 7, 1, 2, 5, 0]
+Loading time:	108.0
+Ready time Domain:	[1228.22	1401.79]
+Ready time Image:	[1870.22	2028.04]
+Ready time:	[1228.22, 1351.0, 1444.61, 1537.7, 1643.32, 1750.52, 1847.52, 1870.22]
+
+Trip 2:		[0, 17, 15, 13, 9, 0]
+Loading time:	72.0
+Ready time Domain:	[2047.99	2246.69]
+Ready time Image:	[2725.99	2725.99]
+Ready time:	[2047.99, 2157.97, 2306.0, 2495.0, 2691.0, 2725.99]
+
+--------------Route 2--------------:
+Trip 0:		[0, 18, 19, 16, 14, 12, 0]
+Loading time:	90.0
+Ready time Domain:	[90.00	2829.69]
+Ready time Image:	[660.63	3389.08]
+Ready time:	[90.0, 210.3, 304.59, 404.81, 497.81, 596.81, 660.63]
+
+Trip 1:		[0, 30, 36, 39, 28, 26, 23, 0]
+Loading time:	108.0
+Ready time Domain:	[1211.95	1272.70]
+Ready time Image:	[1853.95	1911.32]
+Ready time:	[1211.95, 1330.07, 1438.1, 1534.1, 1633.33, 1739.45, 1835.63, 1853.95]
+
+--------------Route 3--------------:
+Trip 0:		[0, 34, 38, 37, 35, 31, 0]
+Loading time:	90.0
+Ready time Domain:	[807.06	1077.00]
+Ready time Image:	[1467.06	1633.37]
+Ready time:	[807.06, 921.36, 1153.0, 1245.4, 1339.77, 1433.52, 1467.06]
+
+Trip 1:		[0, 43, 42, 45, 44, 40, 41, 0]
+Loading time:	108.0
+Ready time Domain:	[1568.12	1755.04]
+Ready time Image:	[2210.12	2374.88]
+Ready time:	[1575.06, 1698.17, 1790.74, 1887.95, 2003.0, 2095.68, 2194.1, 2210.12]
+
+Trip 2:		[0, 21, 25, 11, 10, 8, 0]
+Loading time:	90.0
+Ready time Domain:	[2352.07	2559.32]
+Ready time Image:	[3012.07	3084.77]
+Ready time:	[2352.07, 2452.06, 2594.0, 2788.0, 2881.0, 2977.08, 3012.07]
+

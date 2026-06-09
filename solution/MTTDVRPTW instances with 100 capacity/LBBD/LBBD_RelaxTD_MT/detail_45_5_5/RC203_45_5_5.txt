@@ -1,0 +1,75 @@
+data/solution/LBBD_RelaxTD_MT/detail_45_5_5/RC203_45_5_5.txt
+
+Root Node LB:	849.04
+Cost:		987.34
+Best LB:		902.29
+Status:		Feasible
+Gap (%):		8.61
+Cpu Time:		7200.60
+Nodes:		109441
+UserCut:		75
+
+--------------Route 0--------------:
+Trip 0:		[0, 2, 45, 5, 3, 1, 0]
+Loading time:	10.0
+Ready time Domain:	[10.00	119.18]
+Ready time Image:	[120.11	245.79]
+Ready time:	[10.0, 40.54, 57.82, 70.39, 81.72, 94.72, 120.11]
+
+Trip 1:		[0, 24, 23, 22, 0]
+Loading time:	6.0
+Ready time Domain:	[143.50	266.28]
+Ready time Image:	[437.50	437.50]
+Ready time:	[143.5, 176.87, 211.0, 385.0, 437.5]
+
+Trip 2:		[0, 10, 13, 16, 17, 14, 0]
+Loading time:	10.0
+Ready time Domain:	[496.00	620.03]
+Ready time Image:	[786.00	786.00]
+Ready time:	[496.0, 529.0, 663.0, 684.14, 713.0, 727.29, 786.0]
+
+--------------Route 1--------------:
+Trip 0:		[0, 39, 36, 43, 0]
+Loading time:	6.0
+Ready time Domain:	[6.00	117.38]
+Ready time Image:	[138.02	245.03]
+Ready time:	[6.0, 74.0, 88.71, 105.38, 138.02]
+
+Trip 1:		[0, 12, 15, 11, 9, 0]
+Loading time:	8.0
+Ready time Domain:	[139.31	229.56]
+Ready time Image:	[431.31	431.31]
+Ready time:	[146.02, 183.78, 200.48, 219.48, 381.0, 431.31]
+
+Trip 2:		[0, 37, 35, 31, 34, 0]
+Loading time:	8.0
+Ready time Domain:	[512.47	729.49]
+Ready time Image:	[804.47	906.84]
+Ready time:	[512.47, 546.83, 667.0, 721.34, 733.91, 804.47]
+
+--------------Route 2--------------:
+Trip 0:		[0, 42, 44, 40, 38, 41, 0]
+Loading time:	10.0
+Ready time Domain:	[114.48	119.46]
+Ready time Image:	[404.48	404.48]
+Ready time:	[114.48, 158.02, 227.0, 339.0, 353.04, 386.0, 404.48]
+
+Trip 1:		[0, 6, 7, 8, 4, 0]
+Loading time:	8.0
+Ready time Domain:	[428.11	437.72]
+Ready time Image:	[720.11	720.11]
+Ready time:	[428.11, 458.09, 469.89, 487.39, 654.0, 720.11]
+
+Trip 2:		[0, 25, 21, 18, 19, 20, 0]
+Loading time:	10.0
+Ready time Domain:	[603.75	795.91]
+Ready time Image:	[893.75	960.00]
+Ready time:	[730.11, 809.6, 823.35, 838.15, 853.53, 867.28, 909.35]
+
+--------------Route 3--------------:
+Trip 0:		[0, 33, 28, 26, 27, 29, 30, 32, 0]
+Loading time:	14.0
+Ready time Domain:	[69.12	152.45]
+Ready time Image:	[355.12	396.30]
+Ready time:	[69.12, 123.24, 138.98, 151.98, 166.26, 181.26, 256.0, 269.0, 355.12]
+

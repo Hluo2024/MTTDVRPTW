@@ -1,0 +1,81 @@
+data/solution/LBBD_RelaxTD_MT/detail_45_5_5/C201_45_5_5.txt
+
+Root Node LB:	704.37
+Cost:		760.39
+Best LB:		751.20
+Status:		Feasible
+Gap (%):		1.21
+Cpu Time:		7200.15
+Nodes:		594344
+UserCut:		7
+
+--------------Route 0--------------:
+Trip 0:		[0, 5, 2, 1, 0]
+Loading time:	54.0
+Ready time Domain:	[54.00	169.87]
+Ready time Image:	[420.09	485.98]
+Ready time:	[54.0, 159.13, 303.0, 401.6, 420.09]
+
+--------------Route 1--------------:
+Trip 0:		[0, 20, 6, 32, 33, 0]
+Loading time:	72.0
+Ready time Domain:	[130.85	161.43]
+Ready time Image:	[808.85	808.85]
+Ready time:	[130.85, 229.42, 587.0, 683.32, 775.32, 808.85]
+
+Trip 1:		[0, 7, 3, 4, 0]
+Loading time:	54.0
+Ready time Domain:	[697.01	1189.05]
+Ready time Image:	[1393.01	1549.42]
+Ready time:	[862.85, 1163.0, 1259.18, 1354.59, 1393.01]
+
+Trip 2:		[0, 40, 44, 45, 0]
+Loading time:	54.0
+Ready time Domain:	[1532.54	1959.65]
+Ready time Image:	[2228.54	2293.54]
+Ready time:	[1532.54, 1909.0, 2003.0, 2195.0, 2228.54]
+
+Trip 3:		[0, 15, 17, 13, 9, 0]
+Loading time:	72.0
+Ready time Domain:	[2049.39	2320.07]
+Ready time Image:	[2727.39	2781.79]
+Ready time:	[2300.54, 2444.62, 2541.09, 2634.52, 2733.89, 2761.88]
+
+--------------Route 2--------------:
+Trip 0:		[0, 22, 24, 27, 30, 29, 0]
+Loading time:	90.0
+Ready time Domain:	[90.00	169.83]
+Ready time Image:	[586.43	666.26]
+Ready time:	[90.0, 192.17, 285.77, 378.6, 471.43, 566.43, 586.43]
+
+Trip 1:		[0, 36, 34, 28, 26, 23, 0]
+Loading time:	90.0
+Ready time Domain:	[1098.39	1349.22]
+Ready time Image:	[1758.39	1907.64]
+Ready time:	[1098.39, 1343.0, 1437.5, 1543.66, 1645.75, 1740.08, 1758.39]
+
+Trip 2:		[0, 18, 19, 16, 14, 12, 0]
+Loading time:	90.0
+Ready time Domain:	[1607.62	1875.48]
+Ready time Image:	[2267.62	2441.23]
+Ready time:	[1848.39, 1964.91, 2058.66, 2153.96, 2245.46, 2339.96, 2405.11]
+
+Trip 3:		[0, 43, 42, 41, 0]
+Loading time:	54.0
+Ready time Domain:	[2166.01	2713.14]
+Ready time Image:	[2862.01	3020.76]
+Ready time:	[2459.11, 2663.0, 2756.0, 2848.0, 2862.01]
+
+--------------Route 3--------------:
+Trip 0:		[0, 31, 35, 37, 38, 39, 0]
+Loading time:	90.0
+Ready time Domain:	[633.68	903.89]
+Ready time Image:	[1293.68	1438.23]
+Ready time:	[633.68, 871.0, 976.0, 1074.75, 1165.95, 1263.45, 1293.68]
+
+Trip 1:		[0, 25, 11, 10, 8, 21, 0]
+Loading time:	90.0
+Ready time Domain:	[2427.78	2615.83]
+Ready time Image:	[3087.78	3157.60]
+Ready time:	[2427.78, 2594.0, 2788.0, 2881.0, 2977.0, 3073.79, 3087.78]
+

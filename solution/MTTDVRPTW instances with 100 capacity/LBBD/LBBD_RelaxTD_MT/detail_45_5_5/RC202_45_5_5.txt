@@ -1,0 +1,11 @@
+data/solution/LBBD_RelaxTD_MT/detail_45_5_5/RC202_45_5_5.txt
+
+Root Node LB:	889.15
+Cost:		-
+Lower Bound:	913.76
+Status:		Unknown
+Gap (%):		-
+Cpu Time:		7200.22
+Nodes:		205702
+UserCut:		336
+

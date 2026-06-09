@@ -1,0 +1,10 @@
+data/solution/LBBD_RelaxTD_MT_CUT/detail_45_11_5/RC207_45_11_5.txt
+
+Cost:		-
+Lower Bound:	922.89
+Status:		Unknown
+Gap (%):		-
+Cpu Time:		7201.06
+Nodes:		57137
+UserCut:		4830
+
