@@ -1,0 +1,22 @@
+Trip 0:	[0, 4, 3, 7, 1, 2, 5, 0]
+[SST of last customer,  SST of last customer (Trip)]:	[1824.5455877946015, 578.9130552295055] 
+Total demand:	90
+Total loading time:	108.0
+
+Trip 1:	[0, 6, 15, 14, 12, 13, 9, 11, 10, 8, 0]
+[SST of last customer,  SST of last customer (Trip)]:	[3047.0, 959.1048243686137] 
+Total demand:	170
+Total loading time:	162.0
+
+data/solution/CPLEX_eps_0.1/detail_15_5_2/C204_15_5_2.txt
+
+START_TIME_EPS:	0.1
+Certificate scope: These are epsilon-model certificates, not original-problem certificates.
+The per-vehicle trip limit needs a separate schedule check.
+Cost:		188.68
+Model bound:	188.67
+Model status:		Optimal
+Model gap (%):		.00
+Cpu Time:		212.42
+Nodes:		78373
+

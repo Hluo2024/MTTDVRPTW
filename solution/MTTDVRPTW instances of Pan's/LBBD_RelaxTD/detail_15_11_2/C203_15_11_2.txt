@@ -1,11 +1,12 @@
 data/solution/LBBD_RelaxTD/detail_15_11_2/C203_15_11_2.txt
 
+Certificate scope: These are epsilon-model certificates, not original-problem certificates.
 Cost:		203.07
-Lower Bound:	203.06
-Status:		Optimal
-Gap (%):		.00
-Cpu Time:		46.89
-Nodes:		26390
+Model bound:	203.06
+Model status:		Optimal
+Model gap (%):		.00
+Cpu Time:		44.47
+Nodes:		23815
 UserCut:		0
 
 --------------Route 0--------------:
